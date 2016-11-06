@@ -167,6 +167,14 @@ a.social:hover {
   clear: both;
 }
 
+
+/* Image for Experience Section*/
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
